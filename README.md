@@ -1,4 +1,4 @@
-# DataProjects
+# Air BnB Analysis
 Since its inception in 2008, Airbnb has transformed the way people travel, offering a unique and personalized experience. Today, it stands out as a globally recognized service that connects guests with hosts. The analysis of data from millions of Airbnb listings plays a vital role in the company’s operations. This extensive dataset, comprising approximately 49,000 observations across 16 columns, includes a mix of categorical and numeric values.
 
 By exploring and analyzing this data, we can uncover valuable insights, such as:
